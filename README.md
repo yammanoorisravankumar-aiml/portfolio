@@ -1,15 +1,15 @@
-# 👋 Hi, I'm Yammanoori Sravan Kumar
+ I'm Yammanoori Sravan Kumar
 
-## Data Analyst | Python Developer | SQL Developer
+Data Analyst | Python Developer | AI&ML|Data science|sql Developer
 
 Passionate Data Analyst with skills in Python, SQL, Power BI, Excel, and Machine Learning. I enjoy transforming data into meaningful insights and building data-driven solutions.
 
 ---
 
-## 🚀 About Me
+ About Me
 
 - 📊 Data Analyst
-- 🐍 Python Developer
+ 🐍 Python Developer
 - 🗄️ SQL Developer
 - 📈 Power BI Dashboard Developer
 - 🤖 Machine Learning Enthusiast
@@ -17,7 +17,7 @@ Passionate Data Analyst with skills in Python, SQL, Power BI, Excel, and Machine
 
 ---
 
-## 🛠️ Skills
+🛠️ Skills
 
 - Python
 - SQL
